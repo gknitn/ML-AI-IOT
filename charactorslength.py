@@ -11,7 +11,7 @@
 file_path = 'G:/research27-09-2023/charactor length/charactors.txt'
 
 # Open the file in read mode
-with open(file_path, 'r') as file:
+with open(file_path, 'r', encoding='utf-8') as file: #UTF-8 is a commonly used encoding for text files, and it supports a wide range of characters.
     # Read the content of the file
     file_content = file.read()
 
