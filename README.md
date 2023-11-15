@@ -1,1 +1,1 @@
-Charactor Length form txt file
+Charactor Length from txt file
